@@ -1,3 +1,3 @@
-This is the read me to my first ever created Repo.
+Second change. Lorem ipsum text added.
 
-I named it: "AlbertsFirstRepo"
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean consequat id magna et ornare. Curabitur vehicula, ligula nec bibendum eleifend, erat sapien pharetra erat, sed feugiat purus lorem nec elit. In mollis interdum sapien, non vulputate metus gravida et. Vestibulum vitae rhoncus felis. Quisque a ornare risus. Nunc lacinia ultrices sem, eu elementum sapien posuere id.
